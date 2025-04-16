@@ -10,30 +10,7 @@ Nuestra misión es educar y difundir cómo Bitcoin y la Lightning Network están
 
 Nos enfocamos únicamente en Bitcoin. Si tu interés es promover altcoins, hay otros grupos en Guadalajara para eso. Aquí nos dedicamos al verdadero potencial de Bitcoin.
 
-## ¿Qué Hacemos? 🚀
-
-- **Proyectos de Código Abierto**: Desarrollamos y mantenemos proyectos de código abierto relacionados con Bitcoin, desde billeteras hasta herramientas para desarrolladores.
-- **Construcción de Comunidad**: Conectamos una red global de desarrolladores, entusiastas y colaboradores para impulsar la adopción de Bitcoin.
-- **Educación y Promoción**: Creamos tutoriales, guías y recursos para desmitificar Bitcoin y sus tecnologías subyacentes.
-
-## ¿Por Qué Contribuir? 💡
-
-Al unirte a BTCGDL, estás ayudando a dar forma al futuro de las finanzas descentralizadas. Ya sea corrigiendo un error, proponiendo una nueva funcionalidad o compartiendo conocimiento, tus contribuciones marcan la diferencia.
-
-### Formas de Contribuir:
-
-- **Código**: Envía pull requests para mejorar nuestros proyectos o solucionar problemas.
-- **örs**: Reporta errores, sugiere funcionalidades o participa en discusiones en nuestros repositorios.
-- **Comunidad**: Asiste a eventos, comparte nuestros proyectos o ayuda a integrar a nuevos colaboradores.
-- **Documentación**: Mejora nuestras guías, tutoriales o documentación de proyectos.
-
-## Cómo Empezar 🛠️
-
-1. Explora nuestros repositorios en GitHub para encontrar proyectos que te interesen.
-2. Lee nuestras Guías de Contribución para conocer las mejores prácticas.
-3. Únete a nuestras discusiones en GitHub o contáctanos a través de redes sociales.
-
-## Mantente Conectado 🌐
+## Nuestras Redes 🌐
 
 - **Sitio Web**: btcgdl.mx
 - **Twitter**: @btc_ln_gdl
