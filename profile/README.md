@@ -10,16 +10,15 @@ Nuestra misión es educar y difundir cómo Bitcoin y la Lightning Network están
 
 Nos enfocamos únicamente en Bitcoin. Si tu interés es promover altcoins, hay otros grupos en Guadalajara para eso. Aquí nos dedicamos al verdadero potencial de Bitcoin.
 
-## Nuestras Redes 🌐
-
-- **Web**  [btcgdl.com](https://btcgdl.com/)
-- ![medium-light-instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg)   [@btc_ln_gdl](https://www.instagram.com/btc.gdl/)
-- ![medium-light-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg)   [@btcgdl](https://x.com/btc_ln_gdl)
-
-
 ## Nuestra Visión 🔥
 
 Creemos que Bitcoin es más que una tecnología: es un movimiento hacia la soberanía financiera. Juntos, estamos construyendo herramientas y comunidades para hacer que Bitcoin sea accesible para todos, en todas partes.
+
+## Nuestras Redes 
+
+ 🌐 [btcgdl.com](https://btcgdl.com/) 
+  ![medium-light-instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg) [@btc_ln_gdl](https://www.instagram.com/btc.gdl/)
+  ![medium-light-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg) [@btcgdl](https://x.com/btc_ln_gdl)
 
 ---
 
