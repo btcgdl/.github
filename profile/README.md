@@ -17,8 +17,10 @@ Creemos que Bitcoin es más que una tecnología: es un movimiento hacia la sober
 ## Nuestras Redes 
 
  🌐 [btcgdl.com](https://btcgdl.com/) 
-  ![medium-light-instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg) [@btc_ln_gdl](https://www.instagram.com/btc.gdl/)
-  ![medium-light-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg) [@btcgdl](https://x.com/btc_ln_gdl)
+ 
+ ![medium-light-instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg) [@btc_ln_gdl](https://www.instagram.com/btc.gdl/)
+  
+ ![medium-light-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg) [@btcgdl](https://x.com/btc_ln_gdl)
 
 ---
 
