@@ -1,8 +1,8 @@
-# ¡Bienvenidos a BTCGDL! 🌍
+# ¡Bienvenidos a BTCGDL! ⚡
 
 BTCGDL es una organización de código abierto dedicada a fomentar la innovación y la colaboración en el ecosistema de Bitcoin. Nuestra misión es construir herramientas, bibliotecas y recursos que empoderen a desarrolladores y usuarios para interactuar con la tecnología de Bitcoin de manera descentralizada e inclusiva.
 
-## ¿Quiénes Somos? 🤔
+## ¿Quiénes Somos?
 
 Fundada en 2021, BTCGDL es la comunidad número uno en Guadalajara dedicada exclusivamente a Bitcoin. Nos apasiona crear, aprender y compartir conocimientos sobre el mejor dinero que ha existido: Bitcoin, y la red de pagos más avanzada jamás ideada: la Lightning Network.
 
@@ -12,12 +12,12 @@ Nos enfocamos únicamente en Bitcoin. Si tu interés es promover altcoins, hay o
 
 ## Nuestras Redes 🌐
 
-- **Sitio Web**: btcgdl.mx
+- **Sitio Web**: btcgdl.com
 - **Twitter**: @btc_ln_gdl
 - **Instagram**: @btcgdl
 - **Discusiones en GitHub**: Interactúa con nuestra comunidad en GitHub
 
-## Nuestra Visión 🌟
+## Nuestra Visión 🔥
 
 Creemos que Bitcoin es más que una tecnología: es un movimiento hacia la soberanía financiera. Juntos, estamos construyendo herramientas y comunidades para hacer que Bitcoin sea accesible para todos, en todas partes.
 
