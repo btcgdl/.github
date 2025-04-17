@@ -12,9 +12,9 @@ Nos enfocamos únicamente en Bitcoin. Si tu interés es promover altcoins, hay o
 
 ## Nuestras Redes 🌐
 
-- **Sitio Web**:  [btcgdl.com](https://btcgdl.com/)
-- ![medium-light-instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg): [@btc_ln_gdl](https://www.instagram.com/btc.gdl/)
-- ![medium-light-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg): [@btcgdl](https://x.com/btc_ln_gdl)
+- **Web**  [btcgdl.com](https://btcgdl.com/)
+- ![medium-light-instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg)   [@btc_ln_gdl](https://www.instagram.com/btc.gdl/)
+- ![medium-light-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg)   [@btcgdl](https://x.com/btc_ln_gdl)
 
 
 ## Nuestra Visión 🔥
